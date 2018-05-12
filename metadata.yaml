@@ -1,5 +1,8 @@
 _repo: Oeuvres-compl-tes-de-Fran-ois-VillonSuivies-d-un-choix-des-po-sies-de-ses-disciples_12246
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Villon, François
@@ -17,6 +20,8 @@ creator:
     - http://fr.wikipedia.org/wiki/François_Villon
     - http://en.wikipedia.org/wiki/François_Villon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12246#Oeuvres-compl-tes-de-Fran-ois-VillonSuivies-d-un-choix-des-po-sies-de-ses-disciples
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
